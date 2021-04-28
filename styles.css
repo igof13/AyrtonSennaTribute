@@ -1,0 +1,85 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black !important;
+}
+
+hr{
+    border-color: green !important;
+    width: 70%;
+    align-items: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+a{
+    text-decoration: none;
+    color: green !important;
+    font-family: 'Bebas Neue', cursive;
+}
+
+#title{
+    font-family: 'Merriweather Sans', sans-serif;
+     color: green;
+     text-align: center;
+ }
+  
+
+.banner{
+    margin-bottom: 2rem;
+}
+.mclaren{
+    max-width: 100%; 
+    height: auto;
+}
+
+.col-ayrton{
+    background-color: yellow;
+}
+
+.ayrton-img{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    max-width: 100%; 
+    height: auto;
+    border-radius: 1%;
+}
+
+.fly{
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+    text-align: center;
+    width: 50%;
+    border-radius: 5px;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 0.2rem;
+    font-size: 1.1rem;;
+}
+.quote{
+    text-align: center;
+    font-size: 1.8em;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+#tribute-info{
+    margin-top: 2rem;
+}
+
+.info{
+    margin: 0.2em;
+    color: black;
+    text-align: justify;
+    justify-content: center;
+    background-color: yellow;
+    border-radius: 1%;
+    padding: 0.1rem 0.5rem;
+    font-weight:600;
+    line-height: 1.5rem;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.3rem;
+    letter-spacing: 0.1rem;
+}
